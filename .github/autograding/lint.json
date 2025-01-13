@@ -1,5 +1,5 @@
 {
-  "files": ["main.py"],
+  "files": ["rename_files.py"],
   "ignore" : [],
-  "max": 20
+  "max": 10
 }
